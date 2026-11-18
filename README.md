@@ -40,4 +40,3 @@ This project documents a hands-on networking exercise completed in the TryHackMe
 ## Security Disclaimer
 
 All practical activities documented here were performed in an authorized learning environment. No unauthorized third-party systems were tested.
-
