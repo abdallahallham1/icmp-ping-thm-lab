@@ -1,0 +1,14 @@
+# Transcribed from the user's TryHackMe terminal output.
+# Note: the repeated icmp_seq value and RTT summary mismatch are documented in README.md and REPORT.md.
+
+user@thm:~$ ping -c 4 8.8.8.8
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=56 time=9.92 ms
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=56 time=8.97 ms
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=56 time=7.38 ms
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=56 time=7.48 ms
+--- 8.8.8.8 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 8.132/9.428/10.957/1.057 ms
+
+Flag: [stored locally in private/flag.txt; omitted from this log]
