@@ -1,0 +1,6 @@
+# Ignore private lab flags
+/private/
+
+# Ignore packet captures that may contain sensitive data
+*.pcap
+*.pcapng
