@@ -153,9 +153,9 @@ icmp-ping-thm-lab/
 
 ## Completion
 
-- [Y] Read the ICMP and Ping explanation.
-- [Y] Run `ping -c 4 8.8.8.8` in the assigned lab environment.
-- [Y] Obtain the task completion flag.
-- [Y] Add the TryHackMe screenshot (`tryHackme_lab`).
-- [Y] Add the Wireshark screenshots (`wireshark`, `wireshark_1`, and `wireshark_2`).
-- [ ] Commit and push the sanitized project to GitHub.
+- [x] Read the ICMP and Ping explanation.
+- [x] Run `ping -c 4 8.8.8.8` in the assigned lab environment.
+- [x] Obtain the task completion flag.
+- [x] Add the TryHackMe screenshot (`tryHackme_lab`).
+- [x] Add the Wireshark screenshots (`wireshark`, `wireshark_1`, and `wireshark_2`).
+- [x] Commit and push the sanitized project to GitHub.
